@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<img src="https://badges.pufler.dev/visits/oreopot/oreopot">
+<img src="https://badges.pufler.dev/visits/oreopot">
 
 ## About Me :wave: :
 ### Data Analyst with a knack for software engineering.
