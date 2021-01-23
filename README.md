@@ -7,7 +7,7 @@
 ## About Me :wave: :
 ### Data Analyst with a knack for software engineering.
 ---
-### More info on this page coming soon, meanwhile check [these links](https://www.linktr.ee/bmehta)
+### More info on this page coming soon, meanwhile check [these links] (https://www.linktr.ee/bmehta)
 
 <!--
 **oreopot/oreopot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
